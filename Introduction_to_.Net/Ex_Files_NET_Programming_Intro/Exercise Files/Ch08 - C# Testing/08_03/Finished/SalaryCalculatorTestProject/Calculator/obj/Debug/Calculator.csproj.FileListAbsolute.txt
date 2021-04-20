@@ -1,0 +1,5 @@
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\Calculator\bin\Debug\Calculator.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\Calculator\obj\Debug\Calculator.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\Calculator\obj\Debug\Calculator.pdb

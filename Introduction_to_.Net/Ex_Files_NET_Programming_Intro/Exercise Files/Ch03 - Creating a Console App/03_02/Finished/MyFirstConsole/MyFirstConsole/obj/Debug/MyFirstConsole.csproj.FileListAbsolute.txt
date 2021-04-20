@@ -1,0 +1,9 @@
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MyFirstConsole\MyFirstConsole\bin\Debug\MyFirstConsole.exe.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MyFirstConsole\MyFirstConsole\bin\Debug\MyFirstConsole.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MyFirstConsole\MyFirstConsole\bin\Debug\MyFirstConsole.pdb
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MyFirstConsole\MyFirstConsole\obj\Debug\MyFirstConsole.csprojResolveAssemblyReference.cache
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MyFirstConsole\MyFirstConsole\obj\Debug\MyFirstConsole.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MyFirstConsole\MyFirstConsole\obj\Debug\MyFirstConsole.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch03 - Creating a Console App\03_02\Finished\MyFirstConsole\MyFirstConsole\bin\Debug\MyFirstConsole.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch03 - Creating a Console App\03_02\Finished\MyFirstConsole\MyFirstConsole\obj\Debug\MyFirstConsole.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch03 - Creating a Console App\03_02\Finished\MyFirstConsole\MyFirstConsole\obj\Debug\MyFirstConsole.pdb

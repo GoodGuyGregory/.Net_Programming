@@ -1,0 +1,24 @@
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\nameOfSample\nameOfSample\bin\Debug\nameOfSample.exe.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\nameOfSample\nameOfSample\bin\Debug\nameOfSample.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\nameOfSample\nameOfSample\bin\Debug\nameOfSample.pdb
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\nameOfSample\nameOfSample\obj\Debug\nameOfSample.csprojResolveAssemblyReference.cache
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\nameOfSample\nameOfSample\obj\Debug\nameOfSample.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\nameOfSample\nameOfSample\obj\Debug\nameOfSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_02\Start\nameOfSample\bin\Debug\nameOfSample.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_02\Start\nameOfSample\obj\Debug\nameOfSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_02\Start\nameOfSample\obj\Debug\nameOfSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_02\Start\nameOfSample\bin\Debug\nameOfSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_02\Start\nameOfSample\bin\Debug\nameOfSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_02\Start\nameOfSample\obj\Debug\nameOfSample.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Start\nameOfSample\bin\Debug\nameOfSample.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Start\nameOfSample\obj\Debug\nameOfSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Start\nameOfSample\obj\Debug\nameOfSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Start\nameOfSample\bin\Debug\nameOfSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Start\nameOfSample\bin\Debug\nameOfSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Start\nameOfSample\obj\Debug\nameOfSample.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Start - Copy\nameOfSample\bin\Debug\nameOfSample.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Start - Copy\nameOfSample\obj\Debug\nameOfSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Start - Copy\nameOfSample\obj\Debug\nameOfSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Finished\nameOfSample\bin\Debug\nameOfSample.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Finished\nameOfSample\obj\Debug\nameOfSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-06-PC\Desktop\07_02\Finished\nameOfSample\obj\Debug\nameOfSample.pdb

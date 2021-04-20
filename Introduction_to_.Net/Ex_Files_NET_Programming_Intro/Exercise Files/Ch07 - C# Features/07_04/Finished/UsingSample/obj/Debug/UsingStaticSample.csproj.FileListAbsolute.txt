@@ -1,0 +1,12 @@
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Start\UsingSample\bin\Debug\UsingSample.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Start\UsingSample\bin\Debug\UsingSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Start\UsingSample\bin\Debug\UsingSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Start\UsingSample\obj\Debug\UsingStaticSample.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Start\UsingSample\obj\Debug\UsingSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Start\UsingSample\obj\Debug\UsingSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Finished\UsingSample\bin\Debug\UsingSample.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Finished\UsingSample\obj\Debug\UsingSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Finished\UsingSample\obj\Debug\UsingSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Finished\UsingSample\bin\Debug\UsingSample.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Finished\UsingSample\bin\Debug\UsingSample.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_04\Finished\UsingSample\obj\Debug\UsingStaticSample.csprojResolveAssemblyReference.cache

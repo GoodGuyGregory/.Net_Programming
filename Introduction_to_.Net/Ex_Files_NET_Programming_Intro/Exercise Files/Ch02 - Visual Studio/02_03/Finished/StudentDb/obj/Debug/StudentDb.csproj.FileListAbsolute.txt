@@ -1,0 +1,84 @@
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\csc.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\vbc.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\VBCSCompiler.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\StudentDb.dll.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\StudentDb.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\StudentDb.pdb
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Antlr3.Runtime.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Newtonsoft.Json.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Helpers.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Mvc.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Optimization.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Razor.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.Deployment.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.Razor.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\WebGrease.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Helpers.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Mvc.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Optimization.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Razor.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.Deployment.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.Razor.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Antlr3.Runtime.pdb
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Newtonsoft.Json.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\obj\Debug\StudentDb.csprojResolveAssemblyReference.cache
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\obj\Debug\StudentDb.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\obj\Debug\StudentDb.pdb
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\csc.exe
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\System.Collections.Immutable.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\System.Reflection.Metadata.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\vbc.exe
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\VBCSCompiler.exe
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\roslyn\VBCSCompiler.exe.config
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\StudentDb.dll.config
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\StudentDb.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\StudentDb.pdb
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\Antlr3.Runtime.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\EntityFramework.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\EntityFramework.SqlServer.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\Microsoft.Web.Infrastructure.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\Newtonsoft.Json.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.Helpers.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.Mvc.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.Optimization.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.Razor.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.WebPages.Deployment.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.WebPages.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.WebPages.Razor.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\WebGrease.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\EntityFramework.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\EntityFramework.SqlServer.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.Helpers.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.Mvc.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.Optimization.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.Razor.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.WebPages.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.WebPages.Deployment.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\System.Web.WebPages.Razor.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\Antlr3.Runtime.pdb
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\bin\Newtonsoft.Json.xml
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\obj\Debug\StudentDb.csprojResolveAssemblyReference.cache
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\obj\Debug\StudentDb.dll
+G:\Reynald\DotNet\Exercise Files\Ch02 - Visual Studio\02_03\Finished\StudentDb\obj\Debug\StudentDb.pdb

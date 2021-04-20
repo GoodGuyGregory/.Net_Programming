@@ -1,0 +1,8 @@
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\SalaryCalculatorTestProject.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\SalaryCalculatorTestProject.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Calculator.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Calculator.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\SalaryCalculatorTestProject\obj\Debug\SalaryCalculatorTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\SalaryCalculatorTestProject\obj\Debug\SalaryCalculatorTestProject.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch08 - C# Testing\08_03\Finished\SalaryCalculatorTestProject\SalaryCalculatorTestProject\obj\Debug\SalaryCalculatorTestProject.pdb

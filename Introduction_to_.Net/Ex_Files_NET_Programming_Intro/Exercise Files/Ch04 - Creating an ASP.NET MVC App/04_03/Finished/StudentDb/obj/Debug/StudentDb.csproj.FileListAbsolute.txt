@@ -1,0 +1,88 @@
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\csc.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\vbc.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\VBCSCompiler.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\StudentDb.dll.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\StudentDb.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\StudentDb.pdb
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Antlr3.Runtime.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Newtonsoft.Json.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Helpers.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Mvc.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Optimization.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Razor.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.Deployment.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.Razor.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\WebGrease.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Helpers.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Mvc.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Optimization.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.Razor.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.Deployment.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\System.Web.WebPages.Razor.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Antlr3.Runtime.pdb
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\bin\Newtonsoft.Json.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\obj\Debug\StudentDb.csprojResolveAssemblyReference.cache
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\obj\Debug\StudentDb.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StudentDb\StudentDb\obj\Debug\StudentDb.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Documents\Visual Studio 2015\Projects\StudentDb\StudentDb\bin\EntityFramework.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Documents\Visual Studio 2015\Projects\StudentDb\StudentDb\bin\EntityFramework.SqlServer.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Documents\Visual Studio 2015\Projects\StudentDb\StudentDb\bin\EntityFramework.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Documents\Visual Studio 2015\Projects\StudentDb\StudentDb\bin\EntityFramework.SqlServer.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\csc.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\vbc.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\StudentDb.dll.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\StudentDb.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\StudentDb.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\Antlr3.Runtime.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\EntityFramework.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\EntityFramework.SqlServer.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.Helpers.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.Mvc.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.Optimization.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.Razor.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.WebPages.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\WebGrease.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\EntityFramework.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\EntityFramework.SqlServer.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.Helpers.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.Mvc.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.Optimization.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.Razor.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.WebPages.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\Antlr3.Runtime.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\bin\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\obj\Debug\StudentDb.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\obj\Debug\StudentDb.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch04 - Creating an ASP.ET MVC App\03_03\Finished\StudentDb\StudentDb\obj\Debug\StudentDb.pdb

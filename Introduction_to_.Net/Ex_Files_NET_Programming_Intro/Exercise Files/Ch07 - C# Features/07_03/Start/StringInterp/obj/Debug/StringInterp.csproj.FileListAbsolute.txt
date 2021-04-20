@@ -1,0 +1,12 @@
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StringInterp\StringInterp\bin\Debug\StringInterp.exe.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StringInterp\StringInterp\bin\Debug\StringInterp.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StringInterp\StringInterp\bin\Debug\StringInterp.pdb
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StringInterp\StringInterp\obj\Debug\StringInterp.csprojResolveAssemblyReference.cache
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StringInterp\StringInterp\obj\Debug\StringInterp.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\StringInterp\StringInterp\obj\Debug\StringInterp.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_03\Start\StringInterp\bin\Debug\StringInterp.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_03\Start\StringInterp\obj\Debug\StringInterp.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_03\Start\StringInterp\obj\Debug\StringInterp.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_03\Start\StringInterp\bin\Debug\StringInterp.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_03\Start\StringInterp\bin\Debug\StringInterp.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch07 - C# Features\07_03\Start\StringInterp\obj\Debug\StringInterp.csprojResolveAssemblyReference.cache

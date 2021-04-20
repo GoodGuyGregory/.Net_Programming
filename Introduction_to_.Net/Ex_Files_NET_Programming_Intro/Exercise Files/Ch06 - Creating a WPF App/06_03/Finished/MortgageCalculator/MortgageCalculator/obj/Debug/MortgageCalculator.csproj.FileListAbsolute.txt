@@ -1,0 +1,28 @@
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csprojResolveAssemblyReference.cache
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MainWindow.g.cs
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\App.g.cs
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator_MarkupCompile.cache
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator_MarkupCompile.lref
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MainWindow.baml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.g.resources
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.Properties.Resources.resources
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.GenerateResource.Cache
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\App.g.cs
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator_MarkupCompile.cache
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator_MarkupCompile.lref
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MainWindow.baml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.g.resources
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.Properties.Resources.resources
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch06 - Creating a WPF App\06_03\Finished\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.GenerateResource.Cache

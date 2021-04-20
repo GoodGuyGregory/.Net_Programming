@@ -1,0 +1,56 @@
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\csc.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\vbc.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\VBCSCompiler.exe
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\MoviesDb.dll.config
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\MoviesDb.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\MoviesDb.pdb
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\Newtonsoft.Json.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\System.Net.Http.Formatting.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\System.Web.Http.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\System.Web.Http.WebHost.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\Newtonsoft.Json.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\System.Net.Http.Formatting.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\System.Web.Http.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\bin\System.Web.Http.WebHost.xml
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\obj\Debug\MoviesDb.csprojResolveAssemblyReference.cache
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\obj\Debug\MoviesDb.dll
+c:\users\reynald adolphe.car-booth-09-pc\documents\visual studio 2015\Projects\MoviesDb\MoviesDb\obj\Debug\MoviesDb.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\csc.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\vbc.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\MoviesDb.dll.config
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\MoviesDb.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\MoviesDb.pdb
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\System.Net.Http.Formatting.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\System.Web.Http.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\System.Web.Http.WebHost.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\System.Net.Http.Formatting.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\System.Web.Http.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\bin\System.Web.Http.WebHost.xml
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\obj\Debug\MoviesDb.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\obj\Debug\MoviesDb.dll
+C:\Users\Reynald Adolphe.CAR-BOOTH-09-PC\Desktop\Exercise Files\Ch05 - Creating a Web API\05_03\Start\MoviesDb\MoviesDb\obj\Debug\MoviesDb.pdb
