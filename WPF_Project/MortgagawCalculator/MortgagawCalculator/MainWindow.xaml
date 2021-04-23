@@ -1,0 +1,24 @@
+﻿<Window x:Class="MortgagawCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MortgagawCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Mortgage Calculator" HorizontalAlignment="Left" Margin="89,47,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label Content="Monthy Cost" HorizontalAlignment="Left" Margin="94,94,0,0" VerticalAlignment="Top"/>
+        <Label Content="Mortgage Amt" HorizontalAlignment="Left" Margin="53,135,0,0" VerticalAlignment="Top"/>
+        <Label Content="Interest %" HorizontalAlignment="Left" Margin="228,135,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.737,3.923"/>
+        <Label Content="Period" HorizontalAlignment="Left" Margin="382,135,0,0" VerticalAlignment="Top"/>
+        <Label Content="Monthly Payments" HorizontalAlignment="Left" Margin="53,209,0,0" VerticalAlignment="Top"/>
+        <Button Name="Calculate" Content="Calculate" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="382,267,0,0" RenderTransformOrigin="1.133,0.773" Click="Calculate_Click"/>
+        <TextBox  Name="lbl_Amount" HorizontalAlignment="Left" Margin="63,166,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="109"/>
+        <TextBox Name="lbl_Interest" HorizontalAlignment="Left" Margin="228,166,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101"/>
+        <TextBox Name="lbl_Period" HorizontalAlignment="Left" Margin="382,166,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="lbl_Payments" HorizontalAlignment="Left" Margin="382,214,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="95" Margin="51,35,0,0" VerticalAlignment="Top" Width="451"/>
+
+    </Grid>
+</Window>
