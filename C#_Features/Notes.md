@@ -16,4 +16,3 @@ Console.Writeline(address_Newschool);
 Console.Writeline(MoneyOwned);
 ```
 
-## C# Testing
