@@ -1,0 +1,14 @@
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\bin\Debug\MortgagawCalculator.exe.config
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\bin\Debug\MortgagawCalculator.exe
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\bin\Debug\MortgagawCalculator.pdb
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\App.g.cs
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MortgagawCalculator_MarkupCompile.cache
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MortgagawCalculator_MarkupCompile.lref
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MainWindow.baml
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MortgagawCalculator.g.resources
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MortgagawCalculator.Properties.Resources.resources
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MortgagawCalculator.csproj.GenerateResource.cache
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MortgagawCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MortgagawCalculator.exe
+C:\Users\Greg\source\repos\MortgagawCalculator\MortgagawCalculator\obj\Debug\MortgagawCalculator.pdb
