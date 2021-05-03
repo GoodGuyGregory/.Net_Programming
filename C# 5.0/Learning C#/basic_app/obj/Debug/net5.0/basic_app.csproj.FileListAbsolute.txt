@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/bin/Debug/net5.0/basic_app.deps.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/bin/Debug/net5.0/basic_app.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/bin/Debug/net5.0/basic_app.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/bin/Debug/net5.0/basic_app.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/bin/Debug/net5.0/ref/basic_app.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/bin/Debug/net5.0/basic_app.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/obj/Debug/net5.0/basic_app.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/obj/Debug/net5.0/basic_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/obj/Debug/net5.0/basic_app.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/obj/Debug/net5.0/basic_app.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/obj/Debug/net5.0/basic_app.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/obj/Debug/net5.0/basic_app.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/obj/Debug/net5.0/ref/basic_app.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/obj/Debug/net5.0/basic_app.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/basic_app/obj/Debug/net5.0/basic_app.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/bin/Debug/net5.0/Loop_Count.deps.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/bin/Debug/net5.0/Loop_Count.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/bin/Debug/net5.0/Loop_Count.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/bin/Debug/net5.0/Loop_Count.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/bin/Debug/net5.0/ref/Loop_Count.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/bin/Debug/net5.0/Loop_Count.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/obj/Debug/net5.0/Loop_Count.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/obj/Debug/net5.0/Loop_Count.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/obj/Debug/net5.0/Loop_Count.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/obj/Debug/net5.0/Loop_Count.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/obj/Debug/net5.0/Loop_Count.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/obj/Debug/net5.0/Loop_Count.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/obj/Debug/net5.0/ref/Loop_Count.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/obj/Debug/net5.0/Loop_Count.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Loop_Count/obj/Debug/net5.0/Loop_Count.genruntimeconfig.cache

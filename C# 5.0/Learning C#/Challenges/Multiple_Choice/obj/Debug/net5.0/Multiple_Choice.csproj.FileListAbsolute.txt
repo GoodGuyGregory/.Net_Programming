@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/bin/Debug/net5.0/Multiple_Choice.deps.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/bin/Debug/net5.0/Multiple_Choice.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/bin/Debug/net5.0/Multiple_Choice.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/bin/Debug/net5.0/Multiple_Choice.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/bin/Debug/net5.0/ref/Multiple_Choice.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/bin/Debug/net5.0/Multiple_Choice.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/obj/Debug/net5.0/Multiple_Choice.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/obj/Debug/net5.0/Multiple_Choice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/obj/Debug/net5.0/Multiple_Choice.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/obj/Debug/net5.0/Multiple_Choice.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/obj/Debug/net5.0/Multiple_Choice.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/obj/Debug/net5.0/Multiple_Choice.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/obj/Debug/net5.0/ref/Multiple_Choice.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/obj/Debug/net5.0/Multiple_Choice.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Multiple_Choice/obj/Debug/net5.0/Multiple_Choice.genruntimeconfig.cache

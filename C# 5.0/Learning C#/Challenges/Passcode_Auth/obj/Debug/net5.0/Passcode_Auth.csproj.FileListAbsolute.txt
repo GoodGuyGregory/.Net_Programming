@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/bin/Debug/net5.0/Passcode_Auth.deps.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/bin/Debug/net5.0/Passcode_Auth.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/bin/Debug/net5.0/Passcode_Auth.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/bin/Debug/net5.0/Passcode_Auth.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/bin/Debug/net5.0/ref/Passcode_Auth.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/bin/Debug/net5.0/Passcode_Auth.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/obj/Debug/net5.0/Passcode_Auth.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/obj/Debug/net5.0/Passcode_Auth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/obj/Debug/net5.0/Passcode_Auth.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/obj/Debug/net5.0/Passcode_Auth.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/obj/Debug/net5.0/Passcode_Auth.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/obj/Debug/net5.0/Passcode_Auth.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/obj/Debug/net5.0/ref/Passcode_Auth.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/obj/Debug/net5.0/Passcode_Auth.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Passcode_Auth/obj/Debug/net5.0/Passcode_Auth.genruntimeconfig.cache
