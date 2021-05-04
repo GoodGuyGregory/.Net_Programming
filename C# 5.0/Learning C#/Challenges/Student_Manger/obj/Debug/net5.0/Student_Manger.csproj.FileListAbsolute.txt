@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/bin/Debug/net5.0/Student_Manger.deps.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/bin/Debug/net5.0/Student_Manger.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/bin/Debug/net5.0/Student_Manger.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/bin/Debug/net5.0/Student_Manger.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/bin/Debug/net5.0/ref/Student_Manger.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/bin/Debug/net5.0/Student_Manger.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/obj/Debug/net5.0/Student_Manger.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/obj/Debug/net5.0/Student_Manger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/obj/Debug/net5.0/Student_Manger.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/obj/Debug/net5.0/Student_Manger.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/obj/Debug/net5.0/Student_Manger.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/obj/Debug/net5.0/Student_Manger.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/obj/Debug/net5.0/ref/Student_Manger.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/obj/Debug/net5.0/Student_Manger.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Student_Manger/obj/Debug/net5.0/Student_Manger.genruntimeconfig.cache
