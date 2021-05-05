@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/bin/Debug/net5.0/student_manager.deps.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/bin/Debug/net5.0/student_manager.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/bin/Debug/net5.0/student_manager.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/bin/Debug/net5.0/student_manager.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/bin/Debug/net5.0/ref/student_manager.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/bin/Debug/net5.0/student_manager.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/obj/Debug/net5.0/student_manager.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/obj/Debug/net5.0/student_manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/obj/Debug/net5.0/student_manager.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/obj/Debug/net5.0/student_manager.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/obj/Debug/net5.0/student_manager.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/obj/Debug/net5.0/student_manager.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/obj/Debug/net5.0/ref/student_manager.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/obj/Debug/net5.0/student_manager.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Object-Oriented/student_manager/obj/Debug/net5.0/student_manager.genruntimeconfig.cache
