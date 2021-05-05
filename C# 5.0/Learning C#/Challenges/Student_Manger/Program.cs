@@ -22,12 +22,6 @@ namespace Student_Manger
             }
         }
 
-        static void Add(string StudentName, string StudentGrade)
-        {
-            string combinedEntry = StudentName + " " + StudentGrade;
-            studentlist.Add(combinedEntry);
-
-        }
         static void Main(string[] args)
         {
             Console.WriteLine("Student Manager Program:");
@@ -42,11 +36,18 @@ namespace Student_Manger
                 string studentName = Console.ReadLine();
                 Console.WriteLine("Enter Student's Grade:");
                 string studentGrade = Console.ReadLine();
-                AddStudent(studentName, studentGrade);
+                string combinedEntry = studentName + " " + studentGrade;
+
+                studentList.Add(combinedEntry);
+
                 response = Prompt(studentName);
             }
 
             Console.WriteLine("Displaying the Student Roster");
+            foreach (string student in studentList)
+            {
+                Console.WriteLine("{0}", student);
+            }
         }
     }
 }
