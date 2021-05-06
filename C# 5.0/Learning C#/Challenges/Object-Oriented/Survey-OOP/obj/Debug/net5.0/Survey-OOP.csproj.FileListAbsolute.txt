@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/bin/Debug/net5.0/Survey-OOP.deps.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/bin/Debug/net5.0/Survey-OOP.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/bin/Debug/net5.0/Survey-OOP.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/bin/Debug/net5.0/Survey-OOP.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/bin/Debug/net5.0/ref/Survey-OOP.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/bin/Debug/net5.0/Survey-OOP.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/obj/Debug/net5.0/Survey-OOP.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/obj/Debug/net5.0/Survey-OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/obj/Debug/net5.0/Survey-OOP.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/obj/Debug/net5.0/Survey-OOP.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/obj/Debug/net5.0/Survey-OOP.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/obj/Debug/net5.0/Survey-OOP.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/obj/Debug/net5.0/ref/Survey-OOP.dll
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/obj/Debug/net5.0/Survey-OOP.pdb
+/Users/user/Github/.Net_Programming/C# 5.0/Learning C#/Challenges/Object-Oriented/Survey-OOP/obj/Debug/net5.0/Survey-OOP.genruntimeconfig.cache
