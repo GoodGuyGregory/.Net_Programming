@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/bin/Debug/net5.0/Lists.deps.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/bin/Debug/net5.0/Lists.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/bin/Debug/net5.0/Lists.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/bin/Debug/net5.0/Lists.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/bin/Debug/net5.0/ref/Lists.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/bin/Debug/net5.0/Lists.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/obj/Debug/net5.0/Lists.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/obj/Debug/net5.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/obj/Debug/net5.0/Lists.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/obj/Debug/net5.0/Lists.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/obj/Debug/net5.0/Lists.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/obj/Debug/net5.0/Lists.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/obj/Debug/net5.0/ref/Lists.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/obj/Debug/net5.0/Lists.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Lists/obj/Debug/net5.0/Lists.genruntimeconfig.cache
