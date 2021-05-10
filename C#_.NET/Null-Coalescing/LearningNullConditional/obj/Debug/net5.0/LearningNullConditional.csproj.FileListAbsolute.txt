@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/obj/Debug/net5.0/LearningNullConditional.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/obj/Debug/net5.0/LearningNullConditional.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/obj/Debug/net5.0/LearningNullConditional.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/obj/Debug/net5.0/LearningNullConditional.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/obj/Debug/net5.0/LearningNullConditional.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/bin/Debug/net5.0/LearningNullConditional.deps.json
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/bin/Debug/net5.0/LearningNullConditional.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/bin/Debug/net5.0/LearningNullConditional.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/bin/Debug/net5.0/LearningNullConditional.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/bin/Debug/net5.0/ref/LearningNullConditional.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/bin/Debug/net5.0/LearningNullConditional.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/obj/Debug/net5.0/LearningNullConditional.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/obj/Debug/net5.0/ref/LearningNullConditional.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/obj/Debug/net5.0/LearningNullConditional.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/LearningNullConditional/obj/Debug/net5.0/LearningNullConditional.genruntimeconfig.cache

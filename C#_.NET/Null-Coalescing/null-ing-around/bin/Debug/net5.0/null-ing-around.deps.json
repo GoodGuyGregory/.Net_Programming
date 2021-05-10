@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "null-ing-around/1.0.0": {
+        "runtime": {
+          "null-ing-around.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "null-ing-around/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

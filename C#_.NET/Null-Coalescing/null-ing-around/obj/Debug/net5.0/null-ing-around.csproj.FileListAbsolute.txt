@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/bin/Debug/net5.0/null-ing-around.deps.json
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/bin/Debug/net5.0/null-ing-around.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/bin/Debug/net5.0/null-ing-around.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/bin/Debug/net5.0/null-ing-around.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/bin/Debug/net5.0/ref/null-ing-around.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/bin/Debug/net5.0/null-ing-around.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/obj/Debug/net5.0/null-ing-around.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/obj/Debug/net5.0/null-ing-around.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/obj/Debug/net5.0/null-ing-around.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/obj/Debug/net5.0/null-ing-around.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/obj/Debug/net5.0/null-ing-around.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/obj/Debug/net5.0/null-ing-around.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/obj/Debug/net5.0/ref/null-ing-around.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/obj/Debug/net5.0/null-ing-around.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Null-Coalescing/null-ing-around/obj/Debug/net5.0/null-ing-around.genruntimeconfig.cache
