@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.deps.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/bin/Debug/net5.0/ref/Dictionaries.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/obj/Debug/net5.0/ref/Dictionaries.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.genruntimeconfig.cache

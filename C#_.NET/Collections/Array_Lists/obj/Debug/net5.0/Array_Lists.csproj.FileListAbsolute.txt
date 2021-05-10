@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/bin/Debug/net5.0/Array_Lists.deps.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/bin/Debug/net5.0/Array_Lists.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/bin/Debug/net5.0/Array_Lists.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/bin/Debug/net5.0/Array_Lists.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/bin/Debug/net5.0/ref/Array_Lists.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/bin/Debug/net5.0/Array_Lists.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/obj/Debug/net5.0/Array_Lists.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/obj/Debug/net5.0/Array_Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/obj/Debug/net5.0/Array_Lists.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/obj/Debug/net5.0/Array_Lists.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/obj/Debug/net5.0/Array_Lists.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/obj/Debug/net5.0/Array_Lists.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/obj/Debug/net5.0/ref/Array_Lists.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/obj/Debug/net5.0/Array_Lists.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Array_Lists/obj/Debug/net5.0/Array_Lists.genruntimeconfig.cache
