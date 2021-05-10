@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/bin/Debug/net5.0/Stacks.deps.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/bin/Debug/net5.0/Stacks.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/bin/Debug/net5.0/Stacks.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/bin/Debug/net5.0/Stacks.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/bin/Debug/net5.0/ref/Stacks.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/bin/Debug/net5.0/Stacks.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/obj/Debug/net5.0/Stacks.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/obj/Debug/net5.0/Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/obj/Debug/net5.0/Stacks.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/obj/Debug/net5.0/Stacks.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/obj/Debug/net5.0/ref/Stacks.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/obj/Debug/net5.0/Stacks.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Stacks/obj/Debug/net5.0/Stacks.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/bin/Debug/net5.0/Tuples.deps.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/bin/Debug/net5.0/Tuples.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/bin/Debug/net5.0/Tuples.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/bin/Debug/net5.0/Tuples.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/bin/Debug/net5.0/ref/Tuples.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/bin/Debug/net5.0/Tuples.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/obj/Debug/net5.0/Tuples.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/obj/Debug/net5.0/Tuples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/obj/Debug/net5.0/Tuples.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/obj/Debug/net5.0/Tuples.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/obj/Debug/net5.0/Tuples.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/obj/Debug/net5.0/Tuples.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/obj/Debug/net5.0/ref/Tuples.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/obj/Debug/net5.0/Tuples.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Collections/Tuples/obj/Debug/net5.0/Tuples.genruntimeconfig.cache
