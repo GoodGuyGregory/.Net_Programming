@@ -1,0 +1,15 @@
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/bin/Debug/net5.0/LearningAsync.deps.json
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/bin/Debug/net5.0/LearningAsync.runtimeconfig.json
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/bin/Debug/net5.0/LearningAsync.runtimeconfig.dev.json
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/bin/Debug/net5.0/LearningAsync.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/bin/Debug/net5.0/ref/LearningAsync.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/bin/Debug/net5.0/LearningAsync.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/obj/Debug/net5.0/LearningAsync.csprojAssemblyReference.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/obj/Debug/net5.0/LearningAsync.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/obj/Debug/net5.0/LearningAsync.AssemblyInfoInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/obj/Debug/net5.0/LearningAsync.AssemblyInfo.cs
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/obj/Debug/net5.0/LearningAsync.csproj.CoreCompileInputs.cache
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/obj/Debug/net5.0/LearningAsync.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/obj/Debug/net5.0/ref/LearningAsync.dll
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/obj/Debug/net5.0/LearningAsync.pdb
+/Users/user/Github/.Net_Programming/C#_.NET/Async-Programming/LearningAsync/obj/Debug/net5.0/LearningAsync.genruntimeconfig.cache
