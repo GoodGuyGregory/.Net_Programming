@@ -23,6 +23,7 @@ EXEC Warehouse.uspSelectProductsByColor 'Black';
 GO
 EXEC Warehouse.uspSelectProductsByColor 'Blue';
 GO
+-- will throw an error because no parameter was supplied
 EXEC Warehouse.uspSelectProductsByColor;
 GO
 
